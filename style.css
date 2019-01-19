@@ -31,12 +31,17 @@ h1 {
 
 #main-bio {
     width: 70%;
+    text-align: justify;
 }
 
 #bio-image {
     margin-right: 20px;
     height: 200px;
     width: 200px;
+}
+
+p {
+    text-align: justify
 }
 
 h2 {
@@ -47,7 +52,7 @@ h2 {
 }
 
 #contact-info {
-    width: 30%
+    width: 30%;
 }
 
 a {
