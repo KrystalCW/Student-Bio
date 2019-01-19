@@ -1,6 +1,6 @@
 body {
     background-color: #efeee7;
-    font-family: "Georgia", 'Times New Roman', 'Times New Roman', Times, serif;
+    font-family: "Bookman Old Style", 'Times New Roman', 'Times New Roman', Times, serif;
     color: #333333;
     margin: 0;
     padding: 0;
@@ -9,8 +9,10 @@ body {
 }
        
 h1 {
+    font: 400 130px/0.8 'Great Vibes', Helvetica, sans-serif;
+    text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
     color: #efeee7;
-    font-size: 28px;
+    font-size: 50px;
     background-color: #333333;
     text-align: center;
     margin: 0 auto;
@@ -37,8 +39,10 @@ h1 {
     width: 200px;
 }
 
-.h2 {
-    font-size: 24px;
+h2 {
+    font: 400 130px/0.8 'Great Vibes', Helvetica, sans-serif;
+    text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+    font-size: 45px;
     color: #333333;
 }
 
